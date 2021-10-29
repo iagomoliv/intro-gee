@@ -1,5 +1,4 @@
 # Introdução ao Google Earth Engine
-## Repositório Oficial
 
 Olá! Seja bem-vindo(a) ao repositório oficial do treinamento **Introdução ao Google Earth Engine**.
 
